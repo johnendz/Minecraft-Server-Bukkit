@@ -1,0 +1,28 @@
+uuid: a938ab91-0442-3b13-b9cb-20009a6b2330
+timestamps:
+  login: 1418169392024
+  lastteleport: 1418169403106
+  logout: 1418169424920
+  kits:
+    firework: 1417628972014
+    color: 1417712989157
+    notch: 1417629043640
+    dtools: 1417712971553
+    tools: 1417712958660
+ipAddress: 25.200.137.31
+lastlocation:
+  world: Luna-PvP
+  x: 1409.1453188011947
+  y: 54.0
+  z: -738.4615815418296
+  yaw: 4.642404
+  pitch: 11.485201
+logoutlocation:
+  world: Luna-PvP
+  x: 838.945808007986
+  y: 154.1545236956639
+  z: -524.5755006198231
+  yaw: 275.47195
+  pitch: -6.214345
+godmode: false
+afk: false

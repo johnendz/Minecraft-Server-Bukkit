@@ -1,0 +1,41 @@
+Strings:
+  Standard-reason: Nao foi introduzido o motivo
+  Unban-message: '&GREEN; &TNAME; foi desbanido por &ANAME;'
+  Kick:
+    broadcast: '&RED;Admin: &ANAME; kicked &TNAME;. Reason:&REASON;.'
+    kickmsg: '&RED;[KICK]Voce foi kikado! Razao:&REASON;.'
+  Ban:
+    t-and-r-broadcast: '&RED;[BAN] O Player &TNAME; Foi Banido Por &TIME;min. Motivo:&REASON;.'
+    perm-kickmsg: '&RED; [BAN] Voce foi banido permanentemente. Visite o nosso forum
+      para pedir revisao'
+    only-time-broadcast: '&RED;[BAN]O Player &TNAME; Foi Banido Por &TIME;min. Razao:&REASON;'
+    only-time-kickmsg: '&RED;Banido por &TIME; min.'
+    t-and-r-kickmsg: '&RED;Banido por &TIME;min. Razao:&REASON;.'
+    perm-broadcast: '&RED;&ANAME; baniu &TNAME;.'
+  Join:
+    Banned-reason-left: '&RED; Voce esta banido! Razao:&REASON; (tempo restante: &LEFT;min.)'
+    Welcome-msg: '&GREEN;Voce foi desbanido ! Bem vindo devolta!'
+    Banned-IP: '&RED;Nao tente violar o ban!.&WHITE; Nos sabemos que e voce!'
+    Banned-reason: '&RED;Voce foi banido deste servidor. Razao:&REASON;. Visite o
+      nosso forum para pedir revisao'
+  Error:
+    No-access: '&RED;Sem permissao'
+    Player-is-offline: '&RED;Jogador offline'
+MySQL:
+  Use: false
+  User: Brasilhosting
+  Password: Brasilhosting
+  Port: 3306
+  Host: localhost
+  Database: brasilhosting
+  table: ab_list
+  table-history: ab_history
+Settings:
+  Ban-nickname-and-IP: false
+  Welcome-message: true
+  Broadcast-kick-msg: true
+  Broadcast-ban-msg: true
+  Use-IP-history: true
+  Broadcast-unban-msg: true
+  defaultBanTime: 2880
+version: 0.8

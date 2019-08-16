@@ -1,0 +1,20 @@
+uuid: a4a4cea6-ba5c-3d2a-a890-cccc3d3b6c72
+timestamps:
+  login: 1417732756425
+  logout: 1417733726656
+ipAddress: 25.4.197.159
+lastlocation:
+  world: Luna-PvP
+  x: 905.4118880292249
+  y: 216.1707870772188
+  z: -602.7360690981975
+  yaw: 60.194458
+  pitch: 8.410999
+logoutlocation:
+  world: MinecraftSword
+  x: 80.44885011012552
+  y: 46.0
+  z: 98.64847572016572
+  yaw: 30.1167
+  pitch: 10.571617
+godmode: false

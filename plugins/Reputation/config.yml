@@ -1,0 +1,6 @@
+# Visit Bukkit Page for more informations about all config options
+# 
+# Print debug messages?
+debug: false
+language: en
+time-limit: 5

@@ -1,0 +1,21 @@
+uuid: cfe2967b-83d1-39cc-9b46-f61b0e7bd9c2
+timestamps:
+  login: 1417309463258
+  lastteleport: 1417309960529
+  logout: 1417309363295
+ipAddress: 25.14.51.161
+lastlocation:
+  world: LunaPvP
+  x: 379.3580760969559
+  y: 235.0
+  z: 1731.116494484922
+  yaw: -5.2313414
+  pitch: 47.69853
+godmode: true
+logoutlocation:
+  world: MinecraftSword
+  x: 72.21587555942642
+  y: 48.0
+  z: 106.83098806504243
+  yaw: 161.73805
+  pitch: 16.034225

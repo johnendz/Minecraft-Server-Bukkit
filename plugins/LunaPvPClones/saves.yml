@@ -1,0 +1,94 @@
+# Citizens NPC Storage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+last-created-npc-id: 2
+npc:
+  '0':
+    name: Jono2409
+    uuid: 57083def-6b1d-444b-90e3-d0b1be282eee
+    traits:
+      owner: Jono2409
+      location:
+        world: mundodosterrenos
+        x: '249.68175468172274'
+        y: '-1141.0000000001223'
+        z: '334.5142777851865'
+        yaw: '-0.8815689086914062'
+        pitch: '-80.00835418701172'
+      spawned: true
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: location,lookclose,spawned,type,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '2':
+    name: ReizinnnGames
+    uuid: e976962c-9b39-4211-963f-5335d76c8907
+    traits:
+      spawned: true
+      owner: Jono2409
+      location:
+        world: Luna-PvP
+        x: '1411.5559098851518'
+        y: '55.0'
+        z: '-739.3000000119209'
+        yaw: '186.83328247070312'
+        pitch: '-18.175151824951172'
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: lookclose,location,spawned,type,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '1':
+    name: Jono2409
+    uuid: 7fc8464b-43cb-433d-bd6e-0d041a9f1c38
+    traits:
+      spawned: true
+      owner: Jono2409
+      location:
+        world: Luna-PvP
+        x: '1406.524623326666'
+        y: '55.0'
+        z: '-739.5280687517532'
+        yaw: '232.05792236328125'
+        pitch: '-12.077132225036621'
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: location,lookclose,spawned,type,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true

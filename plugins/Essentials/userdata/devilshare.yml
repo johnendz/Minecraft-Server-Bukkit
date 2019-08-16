@@ -1,0 +1,20 @@
+uuid: c0fc23e4-7162-3c5d-a05b-c18e7562a47f
+timestamps:
+  login: 1417274488007
+  lastteleport: 1417274658891
+  logout: 1417274720785
+ipAddress: 25.211.212.118
+lastlocation:
+  world: MinecraftSword
+  x: 64.12872252200069
+  y: -2797.7534227382503
+  z: 112.29865784550341
+  yaw: 294.15723
+  pitch: -90.0
+logoutlocation:
+  world: MinecraftSword
+  x: 86.95292420751126
+  y: -1973.4747138235061
+  z: 111.6809544565157
+  yaw: -1.9281415
+  pitch: 56.250004

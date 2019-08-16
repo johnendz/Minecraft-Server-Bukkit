@@ -1,0 +1,37 @@
+QuestionRepeatDelay: 60
+CommandCreateQuizUse:
+- '&cUse /criarquiz [answer] [prize] [question]'
+- '&cExample: /criarquiz Minecraft 2500 What is the name of the game that you are
+  playing right now?'
+CommandQuizUse:
+- '&dUse /quiz [Resposta]'
+- '&dExample: /quiz Fabio71'
+CommandCancelQuizUse: '&cUse /cancelarquiz'
+ErrorAlreadyHaveAnOpenQuiz: '&cNao existe um quiz aberto'
+ErrorThePrizeNeedToBeANumber: '&cvoce temque usar um numero!'
+TryAgainAnswerting: '&4&lRespostas incorreta :('
+NoPermission: '&4Voce nao possue permissoes!'
+ErrorDontHaveAnyOpenQuiz: '&4&lNao esta acontecendo o evento quiz no momento!'
+QuizSuccessfulCreateforTheCreator:
+- ' '
+- '&6You create a QUIZ'
+- '&6The Answer is: @Answer.'
+- '&6Prize Value: @Prize'
+- ' '
+QuizOpenBroadCastMessage:
+- ' '
+- ' '
+- '&6[QUIZ] &fQuiz está aberto Premio 5000 !! Para participar ultilize &f&l /quiz
+  [Resposta]'
+- '&6[QUIZ] &f A Pergunta eh : @Question'
+- ' '
+- ' '
+QuizSuccessfulCanceledForTheCanceler: '&4&lQuiz Cancelado '
+QuizWinBroadCastMessage:
+- ' '
+- ' '
+- '&6[Quiz] @Player Acertou A Pergunta !!'
+- '&6[Quiz] Resposta Correta: @Answer '
+- ' '
+- ' '
+YouHaveBeenPaid: '&d&lForam debitados na sua conta @Prize'

@@ -1,0 +1,45 @@
+Location1: 'Luna-PvP:900.1228937139138:216.0:-586.4317613656067:-180.58444:8.177914:'
+Location2: 'Luna-PvP:900.0703357191276:216.0:-602.4639553402901:1.0470684:1.0196369:'
+Camarote: 'Luna-PvP:899.916237510082:215.0:-579.1317667551028:180.89125:4.6672316:'
+Exit: 'Luna-PvP:899.916237510082:215.0:-579.1317667551028:180.89125:4.6672316:'
+DisableCommands: true
+CommandsEnable:
+- /g
+- /l
+- /megafone
+X1CUSTO: 2000
+X1PREMIO: 4000
+X1EMPATE: 2000
+TimeInvite: 60
+TimeDuel: 1200
+TimeEND: 30
+DCKILL: true
+Messages:
+  Error: '&BUse /x1 desafiar [jogador] - Para desafiar \nUse /x1 aceitar [jogador]
+    - Para aceitar \nUse /x1 camarote - Para ir para o camarote \n&4Use /x1 admin
+    - Para ver a lista de comandos admin'
+  Error2: '&cConsole nao pode usar esse comando'
+  Error3: '&BEsse Jogador nao o desafiou a duelar'
+  Error4: '&BJa possui um pedido de X1 ou uma luta pendente aguarde encerrar para
+    usar esse comando'
+  Success: '&c&l[X1] &b O jogador $1 Desafiou $2 para um X1 e ele tem $3 segundos
+    para aceitar - Para aceitar use /x1 aceitar [jogador]'
+  Success2: '&c&l[X1] &b $1 aceitou o pedido de X1 de $2 e para assistir a luta digite
+    /x1 camarote - LUTA ENCERRA EM: $4 SEGUNDOS'
+  ErrorMoney: '&bUm dos 2 jogadores nao tem $1'
+  Offline: '&bO jogador esta offline'
+  Camarote: '&bVoce foi teleportado para o camarote'
+  ErrorPermission: '&bVoce nao tem permisao para usar esse comando'
+  SetLocationSuccess: '&bLocal setado com sucesso'
+  CommandsAdmin: '&bUse /x1 admin setloc1 - Para setar o primeiro local \nUse /x1
+    admin setloc2 - Para setar o segundo lugar \nUse /x1 admin setcamarote - Para
+    setar o camarote \nUse /x1 admin setexit - Para setar a saida'
+  CommandsError: '&c&lVoce nao pode usar esse comando em um X1'
+  TimeInvite: '&c&l[X1] &b O jogador $1 arregou X1 contra $2'
+  TimeDuel: '&c&l[X1] &b O X1 de $1 contra $2 foi encerrado pelo TEMPO e foi dado
+    $3 para cada'
+  DuelStop: '&c&l[X1] &b LUTA ENCERRADA'
+  Win: '&c&l[X1] &b $1 venceu X1 contra $2 e recebeu $3'
+  WinDC: '&c&l[X1] &b $1 deu Disconect no X1 e o vencedor foi $2 ganhando $3'
+  ErrorPlayer: '&c&l voce tem cancer ? voce nao pode lutar contra voce mesmo'
+  TimeEND: '&c&l[X1] &b O vencedor tem $1 segundos para pegar os itens do chao'

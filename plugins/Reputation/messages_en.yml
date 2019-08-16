@@ -1,0 +1,20 @@
+# Language File : EN - English
+error-no-perms: You don`t have permission to use that command.
+error-no-player: You don`t provide player name.
+error-invalid-player: Invalid player name or player not online.
+error-self-rec: You cannot give reputation yourself.
+error-already-given: Player %name% already got reputation from you.
+error-no-digit: Invalid reputation value.
+error-no-value: No value given.
+info-repo: '%name%`s reputation points: %points%'
+info-repo-give: '%name% got reputation point from you.'
+info-repo-given: You got reputation point from %name%.
+info-repo-delete: You lower %name%`s reputation.
+info-repo-deleted: '%name% lower your reputation.'
+info-repo-set: You change %name%`s reputation to %points%.
+info-repo-seted: '%name% change your reputation point to %points%.'
+info-rank: 'Reputation ranking:'
+info-rank-last: 'Last rank update: %date%.'
+info-saved: File saved.
+info-time-limit: There is time limit between possible recomendations.
+info-time-possible: Next command will be possible after %h% hour(s), %m% minute(s), %s% seconds.

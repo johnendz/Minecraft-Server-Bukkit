@@ -1,0 +1,27 @@
+auto-update: false
+Craft:
+  Pos1: 41,41,41
+  Pos2: 41,54,41
+  Pos3: 41,41,41
+MysteryBox:
+- 264
+- 368
+- 258
+- 354
+- 395
+- 278
+- 133
+- 257
+- 266
+- 265
+- 388
+Name:
+  Box: 'Set the name in config Example: Test me please'
+Random: 'Set here Chance of Droping anything use 0-1-2 Example: Use 0 for always drop
+  Items'
+Developer:
+  Notes:
+    Randomizer: 'How to use Random setting use 1 for rare of notting and set 2 for
+      rare to get anything Recommend only up to 10 11-100 can make it harder for players
+      to get items '
+    Name: 'Name: Example : &cO-MysteryBoxes &7> Place and Break'

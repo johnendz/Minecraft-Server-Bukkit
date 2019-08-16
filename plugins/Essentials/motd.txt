@@ -1,0 +1,4 @@
+&c&l  BEM VINDO &D{PLAYER} &c&l!
+&c&lUse /login ou /register.
+&c&lSe Precisar de Ajuda Ultilize /warp ajuda ou help
+&c&l Players online:&c {ONLINE} 

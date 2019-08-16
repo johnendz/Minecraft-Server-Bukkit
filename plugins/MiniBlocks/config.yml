@@ -1,0 +1,715 @@
+#MiniBlocks Configuration
+display-head: false
+Miniblocks:
+  'MHF_Pig':
+    description: Pig head
+    aliases:
+      - pig
+    tags:
+      - pig
+      - mob
+      - animal
+  'MHF_Blaze':
+    description: Blaze head
+    aliases:
+      - blaze
+    tags:
+      - blaze
+      - nether
+      - mob
+      - monster
+  'MHF_Chicken':
+    description: Chicken head
+    aliases:
+      - chicken
+    tags:
+      - chicken
+      - mob
+      - animal
+  'MHF_Cow':
+    description: Cow head
+    aliases:
+      - cow
+    tags:
+      - cow
+      - mob
+      - animal
+  'MHF_Enderman':
+    description: Enderman head
+    aliases:
+      - enderman
+    tags:
+      - enderman
+      - end
+      - mob
+      - monster
+  'MHF_Ghast':
+    description: Ghast head
+    aliases:
+      - ghast
+    tags:
+      - ghast
+      - nether
+      - mob
+      - monster
+  'MHF_Herobrine':
+    description: Herobrine head
+    aliases:
+      - herobrine
+    tags:
+      - herobrine
+      - monster
+  'MHF_LavaSlime':
+    description: Lava Slime head
+    aliases:
+      - lavaslime
+    tags:
+      - lavaslime
+      - nether
+      - mob
+      - monster
+  'MHF_MushroomCow':
+    description: Mushroom cow head
+    aliases:
+      - mushroomcow
+    tags:
+      - mushroomcow
+      - mob
+      - animal
+  'MHF_PigZombie':
+    description: Pig Zombie head
+    aliases:
+      - pigzombie
+    tags:
+      - pigzombie
+      - nether
+      - mob
+      - monster
+  'MHF_Sheep':
+    description: Sheep head
+    aliases:
+      - sheep
+    tags:
+      - sheep
+      - mob
+      - animal
+  'MHF_Slime':
+    description: Slime head
+    aliases:
+      - slime
+    tags:
+      - slime
+      - mob
+      - monster
+  'MHF_Spider':
+    description: Spider head
+    aliases:
+      - spider
+    tags:
+      - spider
+      - mob
+      - monster
+  'MHF_CaveSpider':
+    description: Cave Spider head
+    aliases:
+      - cavespider
+    tags:
+      - cavespider
+      - cave
+      - mob
+      - monster
+  'MHF_Squid':
+    description: Squid head
+    aliases:
+      - squid
+    tags:
+      - squid
+      - mob
+      - animal
+  'MHF_Villager':
+    description: Villager head
+    aliases:
+      - villager
+    tags:
+      - villager
+      - mob
+  'MHF_Golem':
+    description: Iron Golem head
+    aliases:
+      - golem
+      - irongolem
+    tags:
+      - golem
+      - iron
+      - irongolem
+      - mob
+      - animal
+  'MHF_Ocelot':
+    description: Ocelot head
+    aliases:
+      - ocelot
+      - cat
+    tags:
+      - ocelot
+      - cat
+      - mob
+      - animal
+  'MHF_Cactus':
+    description: Cactus
+    aliases:
+      - cactus
+    tags:
+      - cactus
+      - desert
+      - farming
+  'MHF_Chest':
+    description: Chest
+    aliases:
+      - chest
+    tags:
+      - chest
+      - block
+  'MHF_Melon':
+    description: Melon
+    aliases:
+      - melon
+    tags:
+      - melon
+      - fruit
+      - food
+      - farming
+  'MHF_OakLog':
+    description: Oak log
+    aliases:
+      - oaklog
+    tags:
+      - log
+      - wood
+      - block
+      - farming
+  'MHF_Pumpkin':
+    description: Pumpkin
+    aliases:
+      - pumpkin
+    tags:
+      - pumpkin
+      - fruit
+      - food
+      - farming
+  'MHF_TNT':
+    description: TNT block
+    aliases:
+      - tnt
+    tags:
+      - tnt
+      - block
+  'MHF_TNT2':
+    description: A modified TNT block
+    aliases:
+      - tnt2
+    tags:
+      - tnt
+      - block
+  'MHF_Cake':
+    description: Cake!
+    aliases:
+      - cake
+    tags:
+      - cake
+      - food
+  'MHF_Apple':
+    description: Apple
+    aliases:
+      - apple
+    tags:
+      - apple
+      - food
+      - fruit
+  'MHF_ArrowDown':
+    description: Down arrow
+    aliases:
+      - downarrow
+      - arrowdown
+    tags:
+      - down
+      - arrow
+      - symbol
+  'MHF_ArrowUp':
+    description: Up arrow
+    aliases:
+      - uparrow
+      - arrowup
+    tags:
+      - up
+      - arrow
+      - symbol
+  'MHF_ArrowLeft':
+    description: Left arrow
+    aliases:
+      - leftarrow
+      - arrowleft
+    tags:
+      - left
+      - arrow
+      - symbol
+  'MHF_ArrowRight':
+    description: Right arrow
+    aliases:
+      - rightarrow
+      - arrowright
+    tags:
+      - right
+      - arrow
+      - symbol
+  'MHF_Question':
+    description: Question mark
+    aliases:
+      - question
+      - questionman
+    tags:
+      - question
+      - symbol
+  'MHF_Exclamation':
+    description: Exclamation point
+    aliases:
+      - exclamation
+      - exclamationmark
+      - exclamationpoint
+    tags:
+      - exclamation
+      - symbol
+  'Bendablob':
+    description: Hay bale
+    aliases:
+      - hay
+      - haybale
+    tags:
+      - hay
+      - farming
+      - block
+  'monkey354':
+    description: Command block
+    aliases:
+      - commandblock
+      - command
+    tags:
+      - commandblock
+      - command
+      - block
+      - redstone
+  'I_Xenon_I':
+    description: Green present with red ribbon
+    aliases:
+      - greenredpresent
+    tags:
+      - present
+      - block
+      - christmas
+  'snipper4561':
+    description: Red present with green ribbon
+    aliases:
+      - redgreenpresent
+    tags:
+      - present
+      - block
+      - christmas
+  'CruXXx':
+    description: Red present with yellow ribbon
+    aliases:
+      - redyellowpresent
+    tags:
+      - present
+      - block
+      - christmas
+  'Thypthon':
+    description: Jungle log
+    aliases:
+      - junglelog
+    tags:
+      - log
+      - wood
+      - block
+      - farming
+      - jungle
+  'FennoBear':
+    description: Candy cane
+    aliases:
+      - candycane
+    tags:
+      - christmas
+      - candycane
+      - food
+  'CoderPuppy':
+    description: Computer
+    aliases:
+      - computer
+    tags:
+      - computer
+      - redstone
+  'Mur0n':
+    description: TV
+    aliases:
+      - tv
+    tags:
+      - tv
+      - redstone
+  'C418':
+    description: Note block
+    aliases:
+      - noteblock
+      - note
+    tags:
+      - noteblock
+      - redstone
+      - music
+  'metalhedd':
+    description: Iron block
+    aliases:
+      - ironblock
+      - iron
+    tags:
+      - iron
+      - block
+  'teachdaire':
+    description: Gold block
+    aliases:
+      - gold
+      - goldblock
+    tags:
+      - gold
+      - block
+  'Fyspyguy':
+    description: Diamond block
+    aliases:
+      - diamond
+      - diamondblock
+    tags:
+      - diamond
+      - block
+  'dylansams':
+    description: Bedrock
+    aliases:
+      - bedrock
+    tags:
+      - bedrock
+      - block
+  'rugofluk':
+    description: Sand
+    aliases:
+      - sand
+    tags:
+      - sand
+      - desert
+  'uioz':
+    description: Radio
+    aliases:
+      - radio
+    tags:
+      - radio
+      - redstone
+  'Fire_Feather':
+    description: Coffee mug
+    aliases:
+      - mug
+      - coffee
+    tags:
+      - coffee
+      - mug
+      - food
+  'Edna_I':
+    description: Eye of ender
+    aliases:
+      - eyeofender
+      - endereye
+    tags:
+      - eye
+      - ender
+      - end
+  'PocketMines':
+    description: Lava bucket
+    aliases:
+      - lavabucket
+    tags:
+      - lava
+      - bucket
+  'hi1232':
+    description: Orange
+    aliases:
+      - orange
+    tags:
+      - fruit
+      - food
+      - orange
+  'iiM3D':
+    description: Peach
+    aliases:
+      - peach
+    tags:
+      - peach
+      - fruit
+      - food
+  'KyleWDM':
+    description: Coconut
+    aliases:
+      - coconut
+    tags:
+      - coconut
+      - fruit
+      - food
+      - jungle
+  'TheEvilEnderman':
+    description: Cherry
+    aliases:
+      - cherry
+    tags:
+      - cherry
+      - fruit
+      - food
+  'Aesixx':
+    description: Lemon
+    aliases:
+      - lemon
+    tags:
+      - lemon
+      - fruit
+      - food
+  'bendablob2':
+    description: Dark oak log block
+    aliases:
+      - darkoak
+    tags:
+      - darkoak
+      - log
+      - wood
+      - block
+  'FHG_Cam':
+    description: Camera
+    aliases:
+      - camera
+    tags:
+      - camera
+      - redstone
+  '_Rience':
+    description: Cobblestone
+    aliases:
+      - cobble
+      - cobblestone
+    tags:
+      - stone
+      - cobble
+      - cobblestone
+      - block
+  'AutoSoup':
+    description: Redstone lamp
+    aliases:
+      - redstonelamp
+      - lamp
+    tags:
+      - redstone
+      - redstonelamp
+      - lamp
+      - block
+  'AcE_whatever':
+    description: Toaster
+    aliases:
+      - toaster
+    tags:
+      - redstone
+      - toaster
+  'backpack9898':
+    description: Clock
+    aliases:
+      - clock
+    tags:
+      - redstone
+      - clock
+  'Khrenan':
+    description: Mossy cobblestone
+    aliases:
+      - mossycobble
+      - mossycobblestone
+    tags:
+      - mossy
+      - cobble
+      - cobblestone
+      - mossycobblestone
+      - block
+      - jungle
+  'Robbydeezle':
+    description: Stone
+    aliases:
+      - stone
+    tags:
+      - stone
+      - block
+  'scemm':
+    description: Dispenser
+    aliases:
+      - dispenser
+    tags:
+      - dispenser
+      - redstone
+  'Panda4994':
+    description: Sticky piston
+    aliases:
+      - stickypiston
+    tags:
+      - piston
+      - sticky
+      - stickypiston
+      - redstone
+  'akaBruce':
+    description: Diamond ore
+    aliases:
+      - diamondore
+    tags:
+      - diamond
+      - ore
+  'annayirb':
+    description: Redstone ore
+    aliases:
+      - redstoneore
+    tags:
+      - redstone
+      - ore
+  'Tereneckla':
+    description: Emerald ore
+    aliases:
+      - emeraldore
+    tags:
+      - emerald
+      - ore
+  'bubbadawg01':
+    description: Quartz
+    aliases:
+      - quartz
+    tags:
+      - quartz
+      - block
+  'abb3_1337':
+    description: Book stack
+    aliases:
+      - books
+      - bookstack
+    tags:
+      - book
+      - bookstack
+  'BowAimbot':
+    description: Bookshelf
+    aliases:
+      - bookshelf
+    tags:
+      - book
+      - bookshelf
+      - block
+  'zachman228':
+    description: Dirt
+    aliases:
+      - dirt
+    tags:
+      - dirt
+      - block
+      - farming
+  'PhasePvP':
+    description: Podzol
+    aliases:
+      - podzol
+    tags:
+      - dirt
+      - podzol
+      - block
+      - farming
+  'GLaDOS':
+    description: Snowman head
+    aliases:
+      - snowman
+    tags:
+      - snowman
+      - snow
+      - mob
+  'pomi44':
+    description: Sponge
+    aliases:
+      - sponge
+    tags:
+      - sponge
+      - block
+  'rsfx':
+    description: Leaf
+    aliases:
+      - leaf
+    tags:
+      - leaf
+      - block
+  'terryxu':
+    description: Wood plank
+    aliases:
+      - woodplank
+      - woodenplank
+      - wood
+      - plank
+    tags:
+      - wood
+      - woodenplank
+      - plank
+      - block
+  'Christmas':
+    description: Christmas leaves with lights
+    aliases:
+      - christmasleaves
+    tags:
+      - leaf
+      - leaves
+      - lights
+      - christmas
+  'luci999':
+    description: Puffer fish
+    aliases:
+      - pufferfish
+    tags:
+      - pufferfish
+      - fish
+      - mob
+  'food':
+    description: Hamburger
+    aliases:
+      - hamburger
+      - burger
+    tags:
+      - burger
+      - hamburger
+      - food
+  'ChoclateMuffin':
+    description: Cupcake/Muffin
+    aliases:
+      - cupcake
+      - muffin
+    tags:
+      - cupcake
+      - muffin
+      - food
+  'Numba_one_Stunna':
+    description: Netherrack
+    aliases:
+      - netherrack
+    tags:
+      - netherrack
+      - nether
+      - block
+  'Endercreeper7253':
+    description: Globe/Earth
+    aliases:
+      - earth
+      - globe
+    tags:
+      - globe
+      - earth
+  'nafi':
+    description: Gravel
+    aliases:
+      - gravel
+    tags:
+      - gravel
+      - desert
+      - block
+config-version: 1

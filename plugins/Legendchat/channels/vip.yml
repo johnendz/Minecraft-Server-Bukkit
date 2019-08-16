@@ -1,0 +1,11 @@
+name: Vip
+nickname: v
+format: '{default}'
+color: gray
+shortcutAllowed: true
+needFocus: false
+distance: 0.0
+crossworlds: true
+delayPerMessage: 0
+costPerMessage: 0.0
+showCostMessage: false

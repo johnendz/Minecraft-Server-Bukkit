@@ -1,0 +1,68 @@
+users:
+  ec83f9d2-50e2-3825-a0cc-0dbef676af5e:
+    group:
+    - yt
+    options:
+      name: Jono2409
+      prefix: '&l'
+  mistycslayer:
+    group: &id001
+    - ceo
+    options:
+      name: MistycSlayer
+  a938ab91-0442-3b13-b9cb-20009a6b2330:
+    group:
+    - ceo
+    options:
+      name: Fabio71
+  b9802e7a-1917-3969-9280-a790ac104493:
+    group: *id001
+    options:
+      name: MistycSlayer
+  15ab2c35-b6ca-32aa-8ccd-2e780b65d342:
+    group:
+    - ceo
+    options:
+      name: Johnendz
+  3bcc2767-10cc-31f3-bae1-2b675714c34d:
+    group:
+    - membro
+    options:
+      name: RamaoOnze
+  0ebe9027-b4e9-37b0-86de-15ac7c5d304d:
+    group:
+    - ceo
+    options:
+      name: ReizinnnGames
+  35840124-e128-303d-aab8-4a94ea846a30:
+    group:
+    - ceo
+    options:
+      name: johnendz
+groups:
+  membro:
+    prefix: '&f'
+    default: true
+    permissions:
+    - modifyworld.*
+  VIP1: {}
+  VIP2: {}
+  VIP3: {}
+  mod: {}
+  adm: {}
+  coord: {}
+  diretor: {}
+  builder: {}
+  ceo:
+    permissions:
+    - '*'
+    options:
+      prefix: '&6[CEO]'
+  yt:
+    inheritance:
+    - membro
+    permissions:
+    - '*'
+    - essentials.fly
+    options:
+      prefix: '&8[&fYou&cTuber&8]'

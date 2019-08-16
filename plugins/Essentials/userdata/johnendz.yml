@@ -1,0 +1,21 @@
+uuid: 35840124-e128-303d-aab8-4a94ea846a30
+timestamps:
+  login: 1418165107622
+  logout: 1418166579377
+  lastteleport: 1418166466648
+ipAddress: 25.155.196.55
+lastlocation:
+  world: Luna-PvP
+  x: 1409.0111233523253
+  y: 54.0
+  z: -744.0419880438266
+  yaw: -178.20264
+  pitch: 8.349971
+afk: false
+logoutlocation:
+  world: Luna-PvP
+  x: 1153.8453252678696
+  y: 83.0
+  z: -676.7751288647755
+  yaw: 339.75006
+  pitch: -25.149996

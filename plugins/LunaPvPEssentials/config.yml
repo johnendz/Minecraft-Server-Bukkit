@@ -1,0 +1,6 @@
+# CWJoinLeaveMessage By Matgsan
+# Plugin de customizacao da mensagem de entrar e sair do servidor!
+# Mudanca dos creditos, podem causar problemas de copyright
+
+Entrada: '&a[+] {player} &7Entrou no servidor!'
+Saida: ''
